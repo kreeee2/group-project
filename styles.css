@@ -98,3 +98,107 @@ img {
   margin-inline-end: 0px;
   padding-inline-start: 0px;
 }
+<!-- From here onwards it's Christina's part -->
+#cafes {
+background-color: #f2e6d9;
+color: black;
+text-align: left;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+h3{
+  margin: 0;
+}
+
+#undercafes{
+background-color: #e0ebeb;
+column-count: 3;
+margin: 0;
+}
+
+h4{
+  text-decoration: overline;
+}
+#moksha{
+  p{
+  width:30%;
+  margin: 10vh 10vw;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+}
+#longhouse{
+  p{
+  width:30%;
+  margin: 10vh 10vw;
+  font-size: 1.5em;
+  text-align: center;
+}
+}
+
+#billies{
+  p{
+  width:30%;
+  margin: 10vh 10vw;
+  font-size: 1.5em;
+  text-align: right;
+}
+}
+
+#resto {
+background-color: #f2e6d9;
+color: black;
+text-align: left;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#underresto{
+background-color: #e6e6ff;
+column-count: 3;
+margin: auto;
+
+}
+
+#purezza{
+  p{
+  width:30%;
+  margin: 10vh 10vw;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+}
+#pompoko{
+  p{
+  width:30%;
+  margin: 10vh 10vw;
+  font-size: 1.5em;
+  text-align: center;
+}
+}
+
+#wolfies{
+  p{
+  width:30%;
+  margin: 10vh 10vw;
+  font-size: 1.5em;
+  text-align: right;
+}
+#underresto2{
+  background-color: #e6e6ff;
+  column-count: 3;
+  margin: auto;
+}
+
+#prince{
+  p{
+  width:30%;
+  margin: 10vh 10vw;
+  font-size: 1.5em;
+  text-align: right;
+}
